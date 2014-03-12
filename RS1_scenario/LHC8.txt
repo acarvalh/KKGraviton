@@ -1,4 +1,4 @@
-MGr             (pp->Gr)(pb)       (pp->Gr jj VBF)(pb)  (pp->Gr jj VH)(pb)
+MGr                     (pp->Gr)(pb)              (pp->Gr jj VBF)(pb)           (pp->Gr jj VH)(pb)
 260  			16385.33  			252.2826  			7.97667
 300  			8548.448  			147.8604  			4.47906
 350  			4159.118  			80.06001  			2.32054
